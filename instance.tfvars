@@ -1,0 +1,5 @@
+ami    = "ami-006935d9a6773e4ec"
+instance_type   = "t2.nano"
+key_name = "hanumanth"
+subnet_id = "subnet-03fdc48dc6f353b72"
+vpc_security_group_ids = "sg-0d6a6802bf87da528"
